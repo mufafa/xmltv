@@ -53,3 +53,4 @@ thh=Thomas Horsten <thomas@horsten.com>
 va1210=Ville Ahonen <ville-xmltv@thesubmachine.com>
 yunosh=Jan Schneider <jan@horde.org>
 zcougar=Cougar <xmltv@lost.data.ee>
+runner_test
